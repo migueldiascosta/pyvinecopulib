@@ -4,7 +4,7 @@
 	shallow = true
 [submodule "lib/vinecopulib"]
 	path = lib/vinecopulib
-  url = https://github.com/vinecopulib/vinecopulib.git
+        url = https://github.com/migueldiascosta/vinecopulib
 	shallow = true
 [submodule "lib/eigen"]
 	path = lib/eigen
